@@ -19,6 +19,31 @@ const dataabout = {
     title: "A bit about myself",
     aboutme: "",
 };
+const qualifications = [{
+        degree: "Bachelor of Technology: Electronic Engineering",
+        university: "Durban Uniersity of Technology (DUT)",
+        country: "South Africa"
+        status: "Complete",
+    },
+    {
+        degree: "Bachelor of Technology: Management",
+        university: "Durban Uniersity of Technology (DUT)",
+        country: "South Africa"
+        status: "Complete",
+    },
+    {
+        degree: "Master of Science: Blockchain and Digital Currencies",
+        university: "Uniersity of Nicosia (UNIC)",
+        country: "Cyprus"
+        status: "Complete - Cum Laude",
+    },
+    {
+        degree: "PhD in Business Administration: Blockchain adoption",
+        university: "Uniersity of Nicosia (UNIC)",
+        country: "Cyprus"
+        status: "In Progress",
+    },
+];
 const worktimeline = [{
         jobtitle: "IT Engineer",
         where: "Derivco - Isle of Man",
@@ -38,7 +63,7 @@ const worktimeline = [{
 
 const skills = [{
         name: "Firewall provisioning",
-        value: 90,
+        value: 80,
     },
     {
         name: "Server provisioning",
@@ -50,11 +75,11 @@ const skills = [{
     },
     {
         name: "MS Azure DevOps",
-        value: 60,
+        value: 80,
     },
     {
         name: "F5 loadbalancing",
-        value: 85,
+        value: 80,
     },
      {
         name: "Monitoring and observability",
@@ -146,7 +171,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "shayen.ramsahai@gmail.com",
     YOUR_FONE: "+447624290895",
-    description: "Feel free to email me or contact me on whatsapp for an queries",
+    description: "Feel free to email me or contact me on whatsapp for any queries",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -164,6 +189,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    qualifications,
     worktimeline,
     skills,
     services,
