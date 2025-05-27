@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/shayenr.github.io/static/css/main.507a3381.css",
-    "main.js": "/shayenr.github.io/static/js/main.5cc89812.js",
-    "index.html": "/shayenr.github.io/index.html"
+    "main.css": "/static/css/main.507a3381.css",
+    "main.js": "/static/js/main.d01b97d6.js",
+    "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.5cc89812.js"
+    "static/js/main.d01b97d6.js"
   ]
 }
