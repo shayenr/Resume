@@ -23,25 +23,21 @@ const qualifications = [{
         degree: "Bachelor of Technology: Electronic Engineering",
         university: "Durban Uniersity of Technology (DUT)",
         country: "South Africa"
-        status: "Complete",
     },
     {
         degree: "Bachelor of Technology: Management",
         university: "Durban Uniersity of Technology (DUT)",
         country: "South Africa"
-        status: "Complete",
     },
     {
         degree: "Master of Science: Blockchain and Digital Currencies",
         university: "Uniersity of Nicosia (UNIC)",
         country: "Cyprus"
-        status: "Complete - Cum Laude",
     },
     {
-        degree: "PhD in Business Administration: Blockchain adoption",
+        degree: "PhD in Business Administration: Blockchain adoption - in progress",
         university: "Uniersity of Nicosia (UNIC)",
         country: "Cyprus"
-        status: "In Progress",
     },
 ];
 const worktimeline = [{
@@ -57,7 +53,7 @@ const worktimeline = [{
     {
         jobtitle: "Quality Assurance",
         where: "Derivco - South Africa",
-        date: "2013-206",
+        date: "2013-2016",
     },
 ];
 
