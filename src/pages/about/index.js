@@ -8,6 +8,7 @@ import {
   worktimeline,
   skills,
   services,
+  qualifications, // Import the qualifications array
 } from "../../content_option";
 
 export const About = () => {
@@ -35,14 +36,14 @@ export const About = () => {
             </div>
           </Col>
         </Row>
-        <Row className=" sec_sp">
+        <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Qualifications</h3>
           </Col>
           <Col lg="7">
             <table className="table caption-top">
               <tbody>
-                {worktimeline.map((data, i) => {
+                {qualifications.map((data, i) => {
                   return (
                     <tr key={i}>
                       <th scope="row">{data.degree}</th>
@@ -55,7 +56,7 @@ export const About = () => {
             </table>
           </Col>
         </Row>
-        <Row className=" sec_sp">
+        <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">Work Timeline</h3>
           </Col>
