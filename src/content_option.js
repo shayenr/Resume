@@ -84,82 +84,105 @@ const skills = [{
 ];
 
 const services = [{
-        title: "Casino back-office management",
+        title: "Casino enterprise solutions",
         description: "",
     },
     {
-        title: "Product management",
+        title: "Blockchain design",
         description: "",
     },
     {
-        title: "Process optimisation",
+        title: "Crypto currency design",
+        description: "",
+    },
+    {
+        title: "Research methodologies",
         description: "",
     },
      {
-        title: "Casino backend infrastructure management",
+        title: "Process optimisation",
+        description: "",
+    },
+    {
+        title: "Strategic planning",
         description: "",
     },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Casino enterprise software",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Backend infrastructure",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Casino backoffice management",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Blockchain conceptual architectural designs",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Crypto currency design",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Crypto currency trading",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Observability and management",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "DevOps",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Technology",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Research",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Leadership",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/550/?grayscale",
+        description: "Quality",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "Travel",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/700/?grayscale",
+        description: "Health",
         link: "#",
     },
 ];
