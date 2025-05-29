@@ -21,12 +21,12 @@ const dataabout = {
 };
 const qualifications = [{
         degree: "Bachelor of Technology: Electronic Engineering",
-        university: "Durban Uniersity of Technology (DUT)",
+        university: "Durban University of Technology (DUT)",
         country: "South Africa"
     },
     {
         degree: "Bachelor of Technology: Management",
-        university: "Durban Uniersity of Technology (DUT)",
+        university: "Durban University of Technology (DUT)",
         country: "South Africa"
     },
     {
