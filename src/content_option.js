@@ -31,12 +31,12 @@ const qualifications = [{
     },
     {
         degree: "Master of Science: Blockchain and Digital Currencies",
-        university: "Uniersity of Nicosia (UNIC)",
+        university: "University of Nicosia (UNIC)",
         country: "Cyprus"
     },
     {
         degree: "PhD in Business Administration: Blockchain adoption - in progress",
-        university: "Uniersity of Nicosia (UNIC)",
+        university: "University of Nicosia (UNIC)",
         country: "Cyprus"
     },
 ];
