@@ -110,18 +110,8 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/id/48/400/?grayscale",
         description: "Casino enterprise software",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "Backend infrastructure",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Casino backoffice management",
         link: "#",
     },
     {
@@ -130,19 +120,30 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Crypto currency design",
+        img: "https://picsum.photos/400/600/?grayscale",
+        description: "Observability and management",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Crypto currency trading",
+         img: "https://picsum.photos/400/800/?grayscale",
+        description: "Backend infrastructure",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/400/300/?grayscale",
+        description: "Leadership",
+        link: "#",
+    },
+    {
+        img: "https://picsum.photos/id/180/400/?grayscale",
+        description: "Research",
         link: "#",
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "Observability and management",
+         img: "https://picsum.photos/400/700/?grayscale",
+        description: "Crypto currency trading",
+    
         link: "#",
     },
     {
@@ -156,18 +157,18 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
+        img: "https://picsum.photos/id/366/400/550/?grayscale",
         description: "Technology",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "Research",
+        description: "Casino backoffice management",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "Leadership",
+        description: "Crypto currency design",
         link: "#",
     },
     {
@@ -176,7 +177,7 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://picsum.photos/id/318/400/?grayscale",
         description: "Travel",
         link: "#",
     },
